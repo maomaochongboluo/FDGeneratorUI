@@ -1,4 +1,4 @@
-# fdgeneratorui
+# FDGeneratorUI
 
 ## Project setup
 ```
